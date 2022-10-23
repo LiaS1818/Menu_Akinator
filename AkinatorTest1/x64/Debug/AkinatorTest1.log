@@ -1,0 +1,15 @@
+﻿  Game.cpp
+  main.cpp
+C:\workspace\c++\AkinatorTest1\AkinatorTest1\main.cpp(5,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\workspace\c++\AkinatorTest1\AkinatorTest1\main.cpp(10,52): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\workspace\c++\AkinatorTest1\AkinatorTest1\main.cpp(10,34): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+  Generando código...
+  AkinatorTest1.vcxproj -> C:\workspace\c++\AkinatorTest1\x64\Debug\AkinatorTest1.exe
